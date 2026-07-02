@@ -28,6 +28,6 @@
   },
   "dependencies": {
     "cannon-es": "^0.20.0",
-    "three": "^r128"
+    "three": "^r158"
   }
 }
